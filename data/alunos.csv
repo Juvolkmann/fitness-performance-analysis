@@ -1,1 +1,5 @@
-
+nome,idade,peso_inicial,peso_final,gordura_inicial,gordura_final,meses_treino
+Aluno A,25,90,82,25,18,6
+Aluno B,30,85,80,22,19,4
+Aluno C,28,78,74,20,15,5
+Aluno D,22,95,88,30,22,6
